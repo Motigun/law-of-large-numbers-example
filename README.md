@@ -1,0 +1,1 @@
+To see how the law of large numbers works in practice, we simulate die-rolling repeatedly for different times, and compare the probabilities of each side being rolled and the resulting sample means for each simulation.
